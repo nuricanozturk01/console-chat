@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwerty/CLionProjects/server-client/server.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+serverClient.h
+/home/qwerty/CLionProjects/server-client/serverClient.h
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+
+/home/qwerty/CLionProjects/server-client/serverClient.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
