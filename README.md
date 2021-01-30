@@ -1,11 +1,11 @@
 # console-chat
 
--> Only Linux
---RUN--
-gcc server.c -o server
-gcc client.c -o client
- ./server
-./client
+-> only works on linux operating system:
+--RUN--:
+gcc server.c -o server:
+gcc client.c -o client:
+ ./server:
+./client:
 Edit: Application have some problems. If you saw , please try fix and tell me. 
 
 problem:
