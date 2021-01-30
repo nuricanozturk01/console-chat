@@ -13,7 +13,7 @@ problem:
 client and server same pc:
 https://youtu.be/H6fqAVeep4s
 
-client and server different pc:
+client and server different pc(connect with ssh):
 https://youtu.be/2hw_QSHqi2s
 
 Why?  Please help me?
