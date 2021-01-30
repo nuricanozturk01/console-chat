@@ -34,9 +34,9 @@ int main(int argc,char** argv)
     if(!f)
     {
         perror("[-]File is not created....\n");
-        printf("[+]File is created successfully!\n");
+       
     }
-
+     printf("[+]File is created successfully!\n");
     //log screen
     printf("Dou you want to log?\n1-Yes\n2-No\n");
     scanf("%d",&c);
